@@ -19,9 +19,10 @@ This SCRIPT install and set FAKEGPS app for mock location.
 1. Open Device Setting and go in about phone
 2. Find and tap on Build Number 6-7 times or ( until you see developer option enabled. ) 
 3. Go in Developer Option and Enable USB Debugging
-4. Close setting app and run the bat file
-5. Click Allow on USB Debugging Pop-up on your phone
-6. Congratulations !!! Everything successfully done
+4. Connect your android device with USB cable with PC
+5. Close setting app and run the bat file
+6. Click Allow on USB Debugging Pop-up on your phone
+7. Congratulations !!! Everything successfully done
 
 ## Usage
 
