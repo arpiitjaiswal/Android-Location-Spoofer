@@ -1,5 +1,5 @@
-# CREATED BY ARPIT (GITHUB - @arpiitjaiswal)
-
+@ECHO OFF
+ECHO CREATED BY ARPIT (GITHUB - @arpiitjaiswal)
 adb install fakegps.apk
 adb shell appops set com.lexa.fakegps android:mock_location allow
 adb shell settings put global development_settings_enabled 0
